@@ -1,0 +1,19 @@
+# data files - too big, and might not be mine to share
+data/*.csv
+*.csv
+
+#notebook junk
+.ipynb_checkpoints/
+
+#python junk
+__pychache__/
+*.pyc
+.venv/
+
+# secrets - API keys, passwords, tokens
+.env
+*.key
+credentials.json
+
+# mac junk
+.DS_Store

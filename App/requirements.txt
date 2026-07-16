@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+transformers
+torch
+scikit-learn
+joblib
+langdetect
+numpy
