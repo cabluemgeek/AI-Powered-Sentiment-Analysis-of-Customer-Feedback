@@ -22,7 +22,7 @@ from langdetect import detect, LangDetectException
 # ============================================================
 # CONFIG -- update this if you used a different HF repo name
 # ============================================================
-ARABIC_MODEL_REPO = "cabluemgeek/yassir-sentiment-dziribert"
+ARABIC_MODEL_REPO = "cabluem/yassir-sentiment-dziribert"
 LABELS = ["negative", "positive"]  # index order must match le.classes_ from training
 
 ARABIC_PATTERN = re.compile(r"[\u0600-\u06FF]")
