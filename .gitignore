@@ -1,6 +1,6 @@
-# data files - too big, and might not be mine to share
-data/*.csv
-*.csv
+# # data files - too big, and might not be mine to share
+# data/*.csv
+# *.csv
 
 #notebook junk
 .ipynb_checkpoints/

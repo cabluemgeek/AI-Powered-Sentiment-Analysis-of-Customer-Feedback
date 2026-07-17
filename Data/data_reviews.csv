@@ -1,0 +1,1139 @@
+,Review_Text,Language,Rating (1-5),Country,Sentiment,Aspect_Focus
+0,La livraison a été très rapide et le repas était bnina!,French,5,Algeria,Positive,Delivery Speed
+1,الأكل وصل باردًا ولم يكن طازجًا كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+2,The food was delicious and the delivery was prompt.,English,5,Algeria,Positive,Food Quality
+3,La plateforme a des problèmes de connexion fréquents.,French,2,Algeria,Negative,App Usability
+4,خدمة التوصيل ممتازة والأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+5,The delivery was late and the food was cold.,English,1,Algeria,Negative,Delivery Speed
+6,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+7,الأكل وصل بسرعة وكان طيبًا جدًا.,Arabic,5,Algeria,Positive,Delivery Speed
+8,The app is user-friendly but sometimes crashes.,English,3,Algeria,Positive,App Usability
+9,La commande a été incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+10,الأكل كان طيبًا ولكن التغليف كان سيئًا.,Arabic,3,Algeria,Positive,Packaging
+11,Great variety of dishes available on the app.,English,5,Algeria,Positive,Food Quality
+12,La livraison était rapide mais le repas était moyen.,French,3,Algeria,Positive,Delivery Speed
+13,الأكل وصل باردًا ولم يكن لذيذًا.,Arabic,2,Algeria,Negative,Food Quality
+14,The food was tasty and arrived on time. 😊,English,5,Algeria,Positive,Food Quality
+15,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+16,الأكل كان غير طازج والخدمة بطيئة.,Arabic,2,Algeria,Negative,Food Quality
+17,Excellent customer service and delicious food!,English,5,Algeria,Positive,Customer Service
+18,La nourriture était délicieuse et bien emballée.,French,5,Algeria,Positive,Packaging
+19,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+20,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+21,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+22,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+23,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+24,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+25,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+26,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+27,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+28,الأكل كان طازجًا ولذيذًا.,Arabic,5,Algeria,Positive,Food Quality
+29,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+30,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+31,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+32,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+33,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+34,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+35,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+36,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+37,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+38,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+39,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+40,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+41,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+42,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+43,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+44,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+45,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+46,الأكل وصل باردًا ولم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+47,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+48,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+49,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+50,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+51,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+52,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+53,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+54,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+55,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+56,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+57,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+58,الأكل كان طازجًا ولذيذًا.,Arabic,5,Algeria,Positive,Food Quality
+59,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+60,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+61,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+62,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+63,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+64,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+65,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+66,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+67,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+68,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+69,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+70,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+71,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+72,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+73,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+74,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+75,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+76,الأكل وصل باردًا ولم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+77,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+78,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+79,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+80,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+81,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+82,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+83,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+84,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+85,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+86,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+87,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+88,الأكل كان طازجًا ولذيذًا.,Arabic,5,Algeria,Positive,Food Quality
+89,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+90,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+91,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+92,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+93,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+94,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+95,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+96,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+97,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+98,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+99,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+100,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+101,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+102,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+103,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+104,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+105,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+106,الأكل وصل باردًا ولم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+107,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+108,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+109,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+110,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+111,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+112,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+113,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+114,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+115,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+116,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+117,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+118,الأكل كان طازجًا ولذيذًا.,Arabic,5,Algeria,Positive,Food Quality
+119,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+120,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+121,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+122,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+123,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+124,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+125,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+126,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+127,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+128,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+129,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+130,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+131,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+132,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+133,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+134,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+135,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+136,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+137,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+138,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+139,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+140,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+141,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+142,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+143,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+144,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+145,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+146,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+147,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+148,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+149,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+150,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+151,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+152,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+153,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+154,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+155,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+156,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+157,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+158,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+159,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+160,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+161,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+162,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+163,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+164,الأكل وصل باردًا ولم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+165,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+166,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+167,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+168,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+169,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+170,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+171,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+172,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+173,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+174,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+175,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+176,الأكل كان طازجًا ولذيذًا.,Arabic,5,Algeria,Positive,Food Quality
+177,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+178,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+179,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+180,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+181,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+182,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+183,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+184,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+185,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+186,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+187,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+188,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+189,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+190,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+191,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+192,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+193,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+194,الأكل وصل باردًا ولم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+195,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+196,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+197,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+198,Livraison super rapide et la nourriture était bnina! 🍔,French,5,Algeria,Positive,Delivery Speed
+199,"La commande est arrivée barda, froide et retardée.",French,2,Algeria,Negative,Delivery Speed
+200,التوصيل سريع والاكل طيب جداً، شكراً لكم! 😊,Arabic,5,Algeria,Positive,Food Quality
+201,خدمة التوصيل سيئة جداً، الطعام وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+202,Great service! The delivery was on time and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+203,La nourriture était délicieuse mais le prix est un peu élevé.,French,4,Algeria,Positive,Pricing
+204,La plateforme est barda mais la livraison a pris trop de temps.,French,2,Algeria,Negative,Delivery Speed
+205,الأكل كان مش بطال ولكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+206,"Food arrived on time, but the quality could be better.",English,3,Algeria,Positive,Food Quality
+207,"Service client très réactif et efficace, merci! 👍",French,5,Algeria,Positive,Customer Service
+208,تطبيق التوصيل سهل الاستخدام ويعمل بشكل جيد.,Arabic,4,Algeria,Positive,App Usability
+209,The order was incorrect and it took forever to get it fixed.,English,2,Algeria,Negative,Order Accuracy
+210,Livraison rapide mais le repas n'était pas chaud.,French,3,Algeria,Negative,Food Quality
+211,الطلبية وصلت بسرعة وكانت الأسعار مناسبة.,Arabic,4,Algeria,Positive,Pricing
+212,Loved the packaging! Everything was secure and fresh. 🥗,English,5,Algeria,Positive,Packaging
+213,La nourriture était barda mais la livraison était lente.,French,2,Algeria,Negative,Delivery Speed
+214,تجربة توصيل ممتازة، شكراً لكم!,Arabic,5,Algeria,Positive,Customer Service
+215,"The app crashes frequently, making it hard to place orders.",English,1,Algeria,Negative,App Usability
+216,"Service moyen, rien de spécial.",French,3,Algeria,Positive,Customer Service
+217,الأكل كان طيب ولكن التأخير كان مزعج.,Arabic,2,Algeria,Negative,Delivery Speed
+218,Everything was perfect! Will order again. 😊,English,5,Algeria,Positive,Order Accuracy
+219,La livraison a été correcte mais le repas manque de saveur.,French,3,Algeria,Positive,Food Quality
+220,خدمة سيئة جدا، الطلب لم يصل في الوقت المحدد.,Arabic,1,Algeria,Negative,Delivery Speed
+221,"Good prices and tasty food, highly recommend!",English,4,Algeria,Positive,Pricing
+222,"La plateforme est bizzare parfois, mais généralement bien.",French,4,Algeria,Positive,App Usability
+223,الأكل وصل سريعاً ومغلف بشكل جيد.,Arabic,5,Algeria,Positive,Packaging
+224,The delivery person was rude and unprofessional.,English,1,Algeria,Negative,Customer Service
+225,Très satisfait de la qualité et de la rapidité.,French,5,Algeria,Positive,Delivery Speed
+226,التطبيق سهل ولكن بعض الأوقات لا يعمل.,Arabic,3,Algeria,Positive,App Usability
+227,"Food was okay, nothing bnina but acceptable.",English,3,Algeria,Positive,Food Quality
+228,Livraison rapide et service client au top!,French,5,Algeria,Positive,Customer Service
+229,الأكل بارد والتغليف غير جيد.,Arabic,2,Algeria,Negative,Packaging
+230,The prices are a bit high compared to local restaurants.,English,2,Algeria,Negative,Pricing
+231,"Tout était parfait, je recommande vivement! 👍",French,5,Algeria,Positive,Order Accuracy
+232,توصيل سريع ولكن الطعام لم يكن كما توقعت.,Arabic,3,Algeria,Positive,Food Quality
+233,App is user-friendly and easy to navigate.,English,4,Algeria,Positive,App Usability
+234,La nourriture était froide et sans goût.,French,1,Algeria,Negative,Food Quality
+235,خدمة عملاء ممتازة وسريعة الاستجابة.,Arabic,5,Algeria,Positive,Customer Service
+236,Delivery was delayed and the food was incomplete.,English,2,Algeria,Negative,Order Accuracy
+237,Les prix sont raisonnables pour la qualité offerte.,French,4,Algeria,Positive,Pricing
+238,الأكل لذيذ والتوصيل كان في الوقت المحدد.,Arabic,5,Algeria,Positive,Delivery Speed
+239,"The packaging was damaged, and some items were missing.",English,1,Algeria,Negative,Packaging
+240,"Service rapide et efficace, merci beaucoup!",French,5,Algeria,Positive,Customer Service
+241,التطبيق يتعطل أحياناً مما يسبب مشاكل.,Arabic,2,Algeria,Negative,App Usability
+242,Good food but the delivery was a bit slow.,English,3,Algeria,Positive,Delivery Speed
+243,La commande est arrivée rapidement et en bon état.,French,5,Algeria,Positive,Order Accuracy
+244,الأكل كان مشبعة وكانت الخدمة ممتازة.,Arabic,4,Algeria,Positive,Food Quality
+245,The app interface is confusing and not intuitive.,English,2,Algeria,Negative,App Usability
+246,Très déçu par la qualité du repas.,French,1,Algeria,Negative,Food Quality
+247,خدمة رائعة والأسعار مناسبة جداً.,Arabic,5,Algeria,Positive,Pricing
+248,La livraison était barda et le repas était délicieux!,French,5,Algeria,Positive,Food Quality
+249,الأكل بارد والمغلف سيء جداً.,Arabic,1,Algeria,Negative,Packaging
+250,"Great app usability, easy to place orders.",English,4,Algeria,Positive,App Usability
+251,La nourriture n'était pas bnina comme d'habitude.,French,2,Algeria,Negative,Food Quality
+252,التوصيل سريع والأكل لذيذ.,Arabic,5,Algeria,Positive,Delivery Speed
+253,The order was missing items and took too long to resolve.,English,1,Algeria,Negative,Order Accuracy
+254,Service client efficace et sympathique.,French,5,Algeria,Positive,Customer Service
+255,الأكل كان مش بطال ولكن لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+256,Prices are a bit high but the food is worth it.,English,4,Algeria,Positive,Pricing
+257,La livraison a été retardée et le repas froid.,French,2,Algeria,Negative,Delivery Speed
+258,التطبيق سهل الاستخدام لكن هناك بعض المشاكل.,Arabic,3,Algeria,Positive,App Usability
+259,Food quality has declined recently.,English,2,Algeria,Negative,Food Quality
+260,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+261,الأكل وصل بارد ولم يكن لذيذاً.,Arabic,2,Algeria,Negative,Food Quality
+262,"Excellent packaging, nothing was spilled.",English,5,Algeria,Positive,Packaging
+263,La nourriture était ok mais le service client est mauvais.,French,2,Algeria,Negative,Customer Service
+264,خدمة التوصيل بطيئة جداً.,Arabic,1,Algeria,Negative,Delivery Speed
+265,The app is intuitive and works smoothly.,English,4,Algeria,Positive,App Usability
+266,La livraison a été rapide et le repas était bnina.,French,5,Algeria,Positive,Delivery Speed
+267,الأكل كان مش طيب كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+268,Affordable prices and good food quality.,English,4,Algeria,Positive,Pricing
+269,La nourriture était fraîche et bien emballée.,French,5,Algeria,Positive,Packaging
+270,خدمة عملاء سيئة ولم يتم حل مشكلتي.,Arabic,1,Algeria,Negative,Customer Service
+271,The food was delivered on time and was tasty.,English,5,Algeria,Positive,Delivery Speed
+272,La plateforme a des bugs fréquents.,French,2,Algeria,Negative,App Usability
+273,الأكل وصل في الوقت المحدد وكانت الأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+274,The delivery was cold and the food was stale.,English,1,Algeria,Negative,Food Quality
+275,Très bon service et nourriture délicieuse.,French,5,Algeria,Positive,Food Quality
+276,التطبيق صعب الاستخدام ويتعطل كثيراً.,Arabic,2,Algeria,Negative,App Usability
+277,Good customer service and reliable delivery.,English,4,Algeria,Positive,Customer Service
+278,La nourriture n'était pas à la hauteur des attentes.,French,2,Algeria,Negative,Food Quality
+279,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+280,The prices are too high for the portion sizes.,English,2,Algeria,Negative,Pricing
+281,Livraison rapide et nourriture fraîche.,French,5,Algeria,Positive,Delivery Speed
+282,خدمة التوصيل ممتازة والأسعار جيدة.,Arabic,5,Algeria,Positive,Pricing
+283,The food arrived late and was cold.,English,1,Algeria,Negative,Delivery Speed
+284,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+285,الأكل ليس بطعمي المفضل.,Arabic,2,Algeria,Negative,Food Quality
+286,"Affordable and tasty meals, will order again.",English,4,Algeria,Positive,Pricing
+287,La livraison était lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+288,التطبيق يعمل بشكل جيد معظم الوقت.,Arabic,4,Algeria,Positive,App Usability
+289,"Food quality has declined, not satisfied.",English,2,Algeria,Negative,Food Quality
+290,Très bon rapport qualité-prix.,French,5,Algeria,Positive,Pricing
+291,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+292,The app is buggy and hard to use.,English,1,Algeria,Negative,App Usability
+293,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+294,الأكل ليس طازجاً كما كنت أتمنى.,Arabic,2,Algeria,Negative,Food Quality
+295,Good service and the food was tasty.,English,4,Algeria,Positive,Customer Service
+296,La livraison a été retardée sans raison.,French,2,Algeria,Negative,Delivery Speed
+297,الأكل وصل بسرعة وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+298,"La commande est arrivée en un temps record, merci!",French,5,Algeria,Positive,Delivery Speed
+299,الأكل وصل متأخراً وكان غير ساخن.,Arabic,2,Algeria,Negative,Delivery Speed
+300,The food was fresh and tasted great.,English,5,Algeria,Positive,Food Quality
+301,La plateforme est parfois lente à charger.,French,3,Algeria,Positive,App Usability
+302,خدمة التوصيل ممتازة والأسعار معقولة.,Arabic,5,Algeria,Positive,Pricing
+303,The order was wrong and the customer service was unhelpful.,English,1,Algeria,Negative,Order Accuracy
+304,La nourriture était savoureuse et bien emballée.,French,5,Algeria,Positive,Food Quality
+305,الأكل بارد ولم يكن جيداً كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+306,Great variety of food options available.,English,4,Algeria,Positive,Food Quality
+307,La livraison a été rapide mais le repas était moyen.,French,3,Algeria,Positive,Delivery Speed
+308,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+309,The app is easy to use and efficient.,English,5,Algeria,Positive,App Usability
+310,La commande a été incorrecte et j'ai dû attendre longtemps.,French,2,Algeria,Negative,Order Accuracy
+311,الأكل وصل بسرعة وكان بنين جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+312,The food was decent but not exceptional.,English,3,Algeria,Positive,Food Quality
+313,La livraison était lente et le repas était froid.,French,1,Algeria,Negative,Delivery Speed
+314,الأكل لذيذ والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+315,"The app often crashes, making it difficult to order.",English,1,Algeria,Negative,App Usability
+316,La nourriture était excellente et le service rapide.,French,5,Algeria,Positive,Food Quality
+317,الأكل وصل بارد ولم يكن طازجاً.,Arabic,2,Algeria,Negative,Food Quality
+318,Good prices for the quality of food.,English,4,Algeria,Positive,Pricing
+319,La commande est arrivée en bon état et rapidement.,French,5,Algeria,Positive,Order Accuracy
+320,الأكل كان طيب ولكن التوصيل كان بطيئاً.,Arabic,3,Algeria,Positive,Delivery Speed
+321,The food was not as advertised.,English,2,Algeria,Negative,Food Quality
+322,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+323,الأكل وصل في الوقت المحدد وكان طازجاً.,Arabic,5,Algeria,Positive,Delivery Speed
+324,The delivery was prompt and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+325,La livraison a été retardée sans explication.,French,2,Algeria,Negative,Delivery Speed
+326,الأكل كان بنين ولكن الخدمة كانت سيئة.,Arabic,2,Algeria,Negative,Customer Service
+327,The app is user-friendly and reliable.,English,5,Algeria,Positive,App Usability
+328,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+329,الأكل وصل بارد وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+330,Great selection of restaurants available.,English,4,Algeria,Positive,Food Quality
+331,La commande est arrivée en bon état mais était tard.,French,3,Algeria,Positive,Order Accuracy
+332,الأكل كان جيداً لكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+333,The food was delivered on time and was fresh.,English,5,Algeria,Positive,Delivery Speed
+334,La livraison a été très lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+335,الأكل كان لذيذاً والخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+336,The app has a lot of bugs and crashes often.,English,1,Algeria,Negative,App Usability
+337,La nourriture était excellente et la livraison rapide.,French,5,Algeria,Positive,Food Quality
+338,الأكل وصل متأخراً وكان بارداً.,Arabic,2,Algeria,Negative,Delivery Speed
+339,Affordable and delicious meals.,English,4,Algeria,Positive,Pricing
+340,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+341,الأكل كان مش بطال ولكنه لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+342,The delivery was quick and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+343,La livraison était lente et le repas غير جيد.,French,2,Algeria,Negative,Delivery Speed
+344,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+345,The app is difficult to navigate and slow.,English,1,Algeria,Negative,App Usability
+346,La nourriture était savoureuse et bien présentée.,French,5,Algeria,Positive,Food Quality
+347,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+348,Excellent service and delicious food.,English,5,Algeria,Positive,Customer Service
+349,La plateforme a des problèmes techniques fréquents.,French,2,Algeria,Negative,App Usability
+350,الأكل وصل سريعاً وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+351,The food quality has decreased over time.,English,2,Algeria,Negative,Food Quality
+352,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+353,الأكل وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+354,Good prices and the food was tasty.,English,4,Algeria,Positive,Pricing
+355,La commande a été incorrecte et a pris du temps à résoudre.,French,2,Algeria,Negative,Order Accuracy
+356,الأكل كان طازجاً ولذيذاً.,Arabic,5,Algeria,Positive,Food Quality
+357,The app is stable and easy to use.,English,5,Algeria,Positive,App Usability
+358,La nourriture était médiocre et le service mauvais.,French,1,Algeria,Negative,Food Quality
+359,الأكل وصل في الوقت المحدد وكان طازجاً.,Arabic,5,Algeria,Positive,Delivery Speed
+360,The delivery was prompt and efficient.,English,5,Algeria,Positive,Delivery Speed
+361,La plateforme est difficile à utiliser.,French,2,Algeria,Negative,App Usability
+362,الأكل كان بنين جداً وخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+363,The food was delivered cold and was not fresh.,English,1,Algeria,Negative,Food Quality
+364,La livraison a été rapide et sans erreurs.,French,5,Algeria,Positive,Order Accuracy
+365,الأكل وصل متأخراً وكان بارداً.,Arabic,2,Algeria,Negative,Delivery Speed
+366,Great selection and tasty food options.,English,4,Algeria,Positive,Food Quality
+367,La commande était incomplète et le service client était nul.,French,1,Algeria,Negative,Order Accuracy
+368,الأكل كان لذيذاً جداً والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+369,The app frequently crashes and is hard to use.,English,1,Algeria,Negative,App Usability
+370,La nourriture était fraîche et arrivée rapidement.,French,5,Algeria,Positive,Delivery Speed
+371,الأكل وصل بارد ولم يكن طازجاً.,Arabic,2,Algeria,Negative,Food Quality
+372,Affordable prices and delicious meals.,English,4,Algeria,Positive,Pricing
+373,La livraison a été efficace et le repas délicieux.,French,5,Algeria,Positive,Delivery Speed
+374,الأكل كان باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+375,The food was tasty and arrived on time.,English,5,Algeria,Positive,Delivery Speed
+376,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+377,الأكل وصل بسرعة وكان طيباً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+378,The food quality is inconsistent.,English,3,Algeria,Positive,Food Quality
+379,La commande est arrivée en bon état et rapidement.,French,5,Algeria,Positive,Order Accuracy
+380,الأكل كان طيبًا ولكن الخدمة بطيئة.,Arabic,3,Algeria,Positive,Delivery Speed
+381,The app is user-friendly and reliable.,English,5,Algeria,Positive,App Usability
+382,La nourriture était médiocre et le service mauvais.,French,1,Algeria,Negative,Food Quality
+383,الأكل وصل متأخرًا وكان باردًا.,Arabic,2,Algeria,Negative,Delivery Speed
+384,Great variety and delicious food options.,English,4,Algeria,Positive,Food Quality
+385,La plateforme est lente et difficile à naviguer.,French,2,Algeria,Negative,App Usability
+386,الأكل كان لذيذاً جدًا وخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+387,The delivery was slow and the food was cold.,English,1,Algeria,Negative,Delivery Speed
+388,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+389,الأكل وصل بارداً وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+390,Affordable prices and tasty meals.,English,4,Algeria,Positive,Pricing
+391,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+392,الأكل كان طيبًا لكن التغليف كان ضعيفاً.,Arabic,3,Algeria,Positive,Packaging
+393,The food was delicious and arrived promptly.,English,5,Algeria,Positive,Delivery Speed
+394,La livraison a été très lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+395,الأكل كان لذيذاً جدًا والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+396,The app is buggy and hard to navigate.,English,1,Algeria,Negative,App Usability
+397,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+398,Livraison super rapide et la nourriture était bnina! 🍔,French,5,Algeria,Positive,Delivery Speed
+399,"La commande est arrivée barda, froide et retardée.",French,2,Algeria,Negative,Delivery Speed
+400,التوصيل سريع والاكل طيب جداً، شكراً لكم! 😊,Arabic,5,Algeria,Positive,Food Quality
+401,خدمة التوصيل سيئة جداً، الطعام وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+402,Great service! The delivery was on time and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+403,La nourriture était délicieuse mais le prix est un peu élevé.,French,4,Algeria,Positive,Pricing
+404,La plateforme est barda mais la livraison a pris trop de temps.,French,2,Algeria,Negative,Delivery Speed
+405,الأكل كان مش بطال ولكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+406,"Food arrived on time, but the quality could be better.",English,3,Algeria,Positive,Food Quality
+407,"Service client très réactif et efficace, merci! 👍",French,5,Algeria,Positive,Customer Service
+408,تطبيق التوصيل سهل الاستخدام ويعمل بشكل جيد.,Arabic,4,Algeria,Positive,App Usability
+409,The order was incorrect and it took forever to get it fixed.,English,2,Algeria,Negative,Order Accuracy
+410,Livraison rapide mais le repas n'était pas chaud.,French,3,Algeria,Negative,Food Quality
+411,الطلبية وصلت بسرعة وكانت الأسعار مناسبة.,Arabic,4,Algeria,Positive,Pricing
+412,Loved the packaging! Everything was secure and fresh. 🥗,English,5,Algeria,Positive,Packaging
+413,La nourriture était barda mais la livraison était lente.,French,2,Algeria,Negative,Delivery Speed
+414,تجربة توصيل ممتازة، شكراً لكم!,Arabic,5,Algeria,Positive,Customer Service
+415,"The app crashes frequently, making it hard to place orders.",English,1,Algeria,Negative,App Usability
+416,"Service moyen, rien de spécial.",French,3,Algeria,Positive,Customer Service
+417,الأكل كان طيب ولكن التأخير كان مزعج.,Arabic,2,Algeria,Negative,Delivery Speed
+418,Everything was perfect! Will order again. 😊,English,5,Algeria,Positive,Order Accuracy
+419,La livraison a été correcte mais le repas manque de saveur.,French,3,Algeria,Positive,Food Quality
+420,خدمة سيئة جدا، الطلب لم يصل في الوقت المحدد.,Arabic,1,Algeria,Negative,Delivery Speed
+421,"Good prices and tasty food, highly recommend!",English,4,Algeria,Positive,Pricing
+422,"La plateforme est bizzare parfois, mais généralement bien.",French,4,Algeria,Positive,App Usability
+423,الأكل وصل سريعاً ومغلف بشكل جيد.,Arabic,5,Algeria,Positive,Packaging
+424,The delivery person was rude and unprofessional.,English,1,Algeria,Negative,Customer Service
+425,Très satisfait de la qualité et de la rapidité.,French,5,Algeria,Positive,Delivery Speed
+426,التطبيق سهل ولكن بعض الأوقات لا يعمل.,Arabic,3,Algeria,Positive,App Usability
+427,"Food was okay, nothing bnina but acceptable.",English,3,Algeria,Positive,Food Quality
+428,Livraison rapide et service client au top!,French,5,Algeria,Positive,Customer Service
+429,الأكل بارد والتغليف غير جيد.,Arabic,2,Algeria,Negative,Packaging
+430,The prices are a bit high compared to local restaurants.,English,2,Algeria,Negative,Pricing
+431,"Tout était parfait, je recommande vivement! 👍",French,5,Algeria,Positive,Order Accuracy
+432,توصيل سريع ولكن الطعام لم يكن كما توقعت.,Arabic,3,Algeria,Positive,Food Quality
+433,App is user-friendly and easy to navigate.,English,4,Algeria,Positive,App Usability
+434,La nourriture était froide et sans goût.,French,1,Algeria,Negative,Food Quality
+435,خدمة عملاء ممتازة وسريعة الاستجابة.,Arabic,5,Algeria,Positive,Customer Service
+436,Delivery was delayed and the food was incomplete.,English,2,Algeria,Negative,Order Accuracy
+437,Les prix sont raisonnables pour la qualité offerte.,French,4,Algeria,Positive,Pricing
+438,الأكل لذيذ والتوصيل كان في الوقت المحدد.,Arabic,5,Algeria,Positive,Delivery Speed
+439,"The packaging was damaged, and some items were missing.",English,1,Algeria,Negative,Packaging
+440,"Service rapide et efficace, merci beaucoup!",French,5,Algeria,Positive,Customer Service
+441,التطبيق يتعطل أحياناً مما يسبب مشاكل.,Arabic,2,Algeria,Negative,App Usability
+442,Good food but the delivery was a bit slow.,English,3,Algeria,Positive,Delivery Speed
+443,La commande est arrivée rapidement et en bon état.,French,5,Algeria,Positive,Order Accuracy
+444,الأكل كان مشبعة وكانت الخدمة ممتازة.,Arabic,4,Algeria,Positive,Food Quality
+445,The app interface is confusing and not intuitive.,English,2,Algeria,Negative,App Usability
+446,Très déçu par la qualité du repas.,French,1,Algeria,Negative,Food Quality
+447,خدمة رائعة والأسعار مناسبة جداً.,Arabic,5,Algeria,Positive,Pricing
+448,La livraison était barda et le repas était délicieux!,French,5,Algeria,Positive,Food Quality
+449,الأكل بارد والمغلف سيء جداً.,Arabic,1,Algeria,Negative,Packaging
+450,"Great app usability, easy to place orders.",English,4,Algeria,Positive,App Usability
+451,La nourriture n'était pas bnina comme d'habitude.,French,2,Algeria,Negative,Food Quality
+452,التوصيل سريع والأكل لذيذ.,Arabic,5,Algeria,Positive,Delivery Speed
+453,The order was missing items and took too long to resolve.,English,1,Algeria,Negative,Order Accuracy
+454,Service client efficace et sympathique.,French,5,Algeria,Positive,Customer Service
+455,الأكل كان مش بطال ولكن لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+456,Prices are a bit high but the food is worth it.,English,4,Algeria,Positive,Pricing
+457,La livraison a été retardée et le repas froid.,French,2,Algeria,Negative,Delivery Speed
+458,التطبيق سهل الاستخدام لكن هناك بعض المشاكل.,Arabic,3,Algeria,Positive,App Usability
+459,Food quality has declined recently.,English,2,Algeria,Negative,Food Quality
+460,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+461,الأكل وصل بارد ولم يكن لذيذاً.,Arabic,2,Algeria,Negative,Food Quality
+462,"Excellent packaging, nothing was spilled.",English,5,Algeria,Positive,Packaging
+463,La nourriture était ok mais le service client est mauvais.,French,2,Algeria,Negative,Customer Service
+464,خدمة التوصيل بطيئة جداً.,Arabic,1,Algeria,Negative,Delivery Speed
+465,The app is intuitive and works smoothly.,English,4,Algeria,Positive,App Usability
+466,La livraison a été rapide et le repas était bnina.,French,5,Algeria,Positive,Delivery Speed
+467,الأكل كان مش طيب كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+468,Affordable prices and good food quality.,English,4,Algeria,Positive,Pricing
+469,La nourriture était fraîche et bien emballée.,French,5,Algeria,Positive,Packaging
+470,خدمة عملاء سيئة ولم يتم حل مشكلتي.,Arabic,1,Algeria,Negative,Customer Service
+471,The food was delivered on time and was tasty.,English,5,Algeria,Positive,Delivery Speed
+472,La plateforme a des bugs fréquents.,French,2,Algeria,Negative,App Usability
+473,الأكل وصل في الوقت المحدد وكانت الأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+474,The delivery was cold and the food was stale.,English,1,Algeria,Negative,Food Quality
+475,Très bon service et nourriture délicieuse.,French,5,Algeria,Positive,Food Quality
+476,التطبيق صعب الاستخدام ويتعطل كثيراً.,Arabic,2,Algeria,Negative,App Usability
+477,Good customer service and reliable delivery.,English,4,Algeria,Positive,Customer Service
+478,La nourriture n'était pas à la hauteur des attentes.,French,2,Algeria,Negative,Food Quality
+479,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+480,The prices are too high for the portion sizes.,English,2,Algeria,Negative,Pricing
+481,Livraison rapide et nourriture fraîche.,French,5,Algeria,Positive,Delivery Speed
+482,خدمة التوصيل ممتازة والأسعار جيدة.,Arabic,5,Algeria,Positive,Pricing
+483,The food arrived late and was cold.,English,1,Algeria,Negative,Delivery Speed
+484,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+485,الأكل ليس بطعمي المفضل.,Arabic,2,Algeria,Negative,Food Quality
+486,"Affordable and tasty meals, will order again.",English,4,Algeria,Positive,Pricing
+487,La livraison était lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+488,التطبيق يعمل بشكل جيد معظم الوقت.,Arabic,4,Algeria,Positive,App Usability
+489,"Food quality has declined, not satisfied.",English,2,Algeria,Negative,Food Quality
+490,Très bon rapport qualité-prix.,French,5,Algeria,Positive,Pricing
+491,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+492,The app is buggy and hard to use.,English,1,Algeria,Negative,App Usability
+493,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+494,الأكل ليس طازجاً كما كنت أتمنى.,Arabic,2,Algeria,Negative,Food Quality
+495,Good service and the food was tasty.,English,4,Algeria,Positive,Customer Service
+496,La livraison a été retardée sans raison.,French,2,Algeria,Negative,Delivery Speed
+497,الأكل وصل بسرعة وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+498,Super rapide et bnina 😋 ! Merci   pour le service impeccable.,French,5,Algeria,Positive,Delivery Speed
+499,الخدمة بزاف رائعة والماكلة بنينة بزاف، شكرا لكم.,Arabic,4,Algeria,Positive,Food Quality
+500,Terrible experience with Uber Eats. My food was cold and late. Never again.,English,1,Algeria,Negative,Delivery Speed
+501,J'ai reçu ma commande en moins de 20 minutes ! Bravo Yassir Express ! #Efficace,French,5,Algeria,Positive,Delivery Speed
+502,La qualité de la nourriture laisse vraiment à désirer. Pas satisfait.,French,2,Algeria,Negative,Food Quality
+503,"Great service! The app is easy to use, and the delivery was fast. 👍",English,5,Algeria,Positive,App Usability
+504,التوصيل كان بطيء والطلبية ناقصة، خدمة سيئة.,Arabic,1,Algeria,Negative,Order Accuracy
+505,Excellent rapport qualité-prix. Les repas sont chauds et délicieux.,French,5,Algeria,Positive,Pricing
+506,"Packaging was really good, but the delivery took forever. Disappointed. 😕",English,3,Algeria,Negative,Packaging
+507,بصراحة الخدمة ما عجبتني، الطلب تأخر بزااااف.,Arabic,2,Algeria,Negative,Delivery Speed
+508,"Service parfait, je recommande vivement ! 🌟",French,5,Algeria,Positive,Customer Service
+509,"The food was amazing, but I think the prices are a bit high.",English,4,Algeria,Positive,Pricing
+510,التغليف كان رائع، والطعام وصل ساخن. شكرا لكم!,Arabic,5,Algeria,Positive,Packaging
+511,Commande incomplète et aucun remboursement. Très déçu.,French,1,Algeria,Negative,Order Accuracy
+512,"User-friendly app, and the delivery guy was very polite.",English,5,Algeria,Positive,App Usability
+513,الأسعار مرتفعة جدا مقارنة بالخدمة.,Arabic,2,Algeria,Negative,Pricing
+514,Livraison rapide et prix très corrects. Je recommande !,French,5,Algeria,Positive,Pricing
+515,Terrible service. They forgot half of my order. 😡,English,1,Algeria,Negative,Order Accuracy
+516,"La nourriture était vraiment délicieuse, je reviendrai sans hésiter !",French,5,Algeria,Positive,Food Quality
+517,التطبيق بزاف صعيب ومربك، ما عجبنيش.,Arabic,1,Algeria,Negative,App Usability
+518,"Packaging was impressive, and the food tasted amazing! 🥗",English,5,Algeria,Positive,Packaging
+519,التوصيل كان سريع، لكن جودة الطعام تحتاج إلى تحسين.,Arabic,3,Algeria,Negative,Food Quality
+520,J'ai été surpris par la rapidité et la qualité du service. Bravo !,French,5,Algeria,Positive,Customer Service
+521,Review_Text,Language,Rating (1-5),Country,Sentiment (Positive/Negative),Aspect_Focus
+522,Livraison super rapide et la nourriture était bnina! 🍔,French,5,Algeria,Positive,Delivery Speed
+523,"La commande est arrivée barda, froide et retardée.",French,2,Algeria,Negative,Delivery Speed
+524,التوصيل سريع والاكل طيب جداً، شكراً لكم! 😊,Arabic,5,Algeria,Positive,Food Quality
+525,خدمة التوصيل سيئة جداً، الطعام وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+526,Great service! The delivery was on time and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+527,La nourriture était délicieuse mais le prix est un peu élevé.,French,4,Algeria,Positive,Pricing
+528,La plateforme est barda mais la livraison a pris trop de temps.,French,2,Algeria,Negative,Delivery Speed
+529,الأكل كان مش بطال ولكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+530,"Food arrived on time, but the quality could be better.",English,3,Algeria,Positive,Food Quality
+531,"Service client très réactif et efficace, merci! 👍",French,5,Algeria,Positive,Customer Service
+532,تطبيق التوصيل سهل الاستخدام ويعمل بشكل جيد.,Arabic,4,Algeria,Positive,App Usability
+533,The order was incorrect and it took forever to get it fixed.,English,2,Algeria,Negative,Order Accuracy
+534,Livraison rapide mais le repas n'était pas chaud.,French,3,Algeria,Negative,Food Quality
+535,الطلبية وصلت بسرعة وكانت الأسعار مناسبة.,Arabic,4,Algeria,Positive,Pricing
+536,Loved the packaging! Everything was secure and fresh. 🥗,English,5,Algeria,Positive,Packaging
+537,La nourriture était barda mais la livraison était lente.,French,2,Algeria,Negative,Delivery Speed
+538,تجربة توصيل ممتازة، شكراً لكم!,Arabic,5,Algeria,Positive,Customer Service
+539,"The app crashes frequently, making it hard to place orders.",English,1,Algeria,Negative,App Usability
+540,"Service moyen, rien de spécial.",French,3,Algeria,Positive,Customer Service
+541,الأكل كان طيب ولكن التأخير كان مزعج.,Arabic,2,Algeria,Negative,Delivery Speed
+542,Everything was perfect! Will order again. 😊,English,5,Algeria,Positive,Order Accuracy
+543,La livraison a été correcte mais le repas manque de saveur.,French,3,Algeria,Positive,Food Quality
+544,خدمة سيئة جدا، الطلب لم يصل في الوقت المحدد.,Arabic,1,Algeria,Negative,Delivery Speed
+545,"Good prices and tasty food, highly recommend!",English,4,Algeria,Positive,Pricing
+546,"La plateforme est bizzare parfois, mais généralement bien.",French,4,Algeria,Positive,App Usability
+547,الأكل وصل سريعاً ومغلف بشكل جيد.,Arabic,5,Algeria,Positive,Packaging
+548,The delivery person was rude and unprofessional.,English,1,Algeria,Negative,Customer Service
+549,Très satisfait de la qualité et de la rapidité.,French,5,Algeria,Positive,Delivery Speed
+550,التطبيق سهل ولكن بعض الأوقات لا يعمل.,Arabic,3,Algeria,Positive,App Usability
+551,"Food was okay, nothing bnina but acceptable.",English,3,Algeria,Positive,Food Quality
+552,Livraison rapide et service client au top!,French,5,Algeria,Positive,Customer Service
+553,الأكل بارد والتغليف غير جيد.,Arabic,2,Algeria,Negative,Packaging
+554,The prices are a bit high compared to local restaurants.,English,2,Algeria,Negative,Pricing
+555,"Tout était parfait, je recommande vivement! 👍",French,5,Algeria,Positive,Order Accuracy
+556,توصيل سريع ولكن الطعام لم يكن كما توقعت.,Arabic,3,Algeria,Positive,Food Quality
+557,App is user-friendly and easy to navigate.,English,4,Algeria,Positive,App Usability
+558,La nourriture était froide et sans goût.,French,1,Algeria,Negative,Food Quality
+559,خدمة عملاء ممتازة وسريعة الاستجابة.,Arabic,5,Algeria,Positive,Customer Service
+560,Delivery was delayed and the food was incomplete.,English,2,Algeria,Negative,Order Accuracy
+561,Les prix sont raisonnables pour la qualité offerte.,French,4,Algeria,Positive,Pricing
+562,الأكل لذيذ والتوصيل كان في الوقت المحدد.,Arabic,5,Algeria,Positive,Delivery Speed
+563,"The packaging was damaged, and some items were missing.",English,1,Algeria,Negative,Packaging
+564,"Service rapide et efficace, merci beaucoup!",French,5,Algeria,Positive,Customer Service
+565,التطبيق يتعطل أحياناً مما يسبب مشاكل.,Arabic,2,Algeria,Negative,App Usability
+566,Good food but the delivery was a bit slow.,English,3,Algeria,Positive,Delivery Speed
+567,La commande est arrivée rapidement et en bon état.,French,5,Algeria,Positive,Order Accuracy
+568,الأكل كان مشبعة وكانت الخدمة ممتازة.,Arabic,4,Algeria,Positive,Food Quality
+569,The app interface is confusing and not intuitive.,English,2,Algeria,Negative,App Usability
+570,Très déçu par la qualité du repas.,French,1,Algeria,Negative,Food Quality
+571,خدمة رائعة والأسعار مناسبة جداً.,Arabic,5,Algeria,Positive,Pricing
+572,La livraison était barda et le repas était délicieux!,French,5,Algeria,Positive,Food Quality
+573,الأكل بارد والمغلف سيء جداً.,Arabic,1,Algeria,Negative,Packaging
+574,"Great app usability, easy to place orders.",English,4,Algeria,Positive,App Usability
+575,La nourriture n'était pas bnina comme d'habitude.,French,2,Algeria,Negative,Food Quality
+576,التوصيل سريع والأكل لذيذ.,Arabic,5,Algeria,Positive,Delivery Speed
+577,The order was missing items and took too long to resolve.,English,1,Algeria,Negative,Order Accuracy
+578,Service client efficace et sympathique.,French,5,Algeria,Positive,Customer Service
+579,الأكل كان مش بطال ولكن لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+580,Prices are a bit high but the food is worth it.,English,4,Algeria,Positive,Pricing
+581,La livraison a été retardée et le repas froid.,French,2,Algeria,Negative,Delivery Speed
+582,التطبيق سهل الاستخدام لكن هناك بعض المشاكل.,Arabic,3,Algeria,Positive,App Usability
+583,Food quality has declined recently.,English,2,Algeria,Negative,Food Quality
+584,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+585,الأكل وصل بارد ولم يكن لذيذاً.,Arabic,2,Algeria,Negative,Food Quality
+586,"Excellent packaging, nothing was spilled.",English,5,Algeria,Positive,Packaging
+587,La nourriture était ok mais le service client est mauvais.,French,2,Algeria,Negative,Customer Service
+588,خدمة التوصيل بطيئة جداً.,Arabic,1,Algeria,Negative,Delivery Speed
+589,The app is intuitive and works smoothly.,English,4,Algeria,Positive,App Usability
+590,La livraison a été rapide et le repas était bnina.,French,5,Algeria,Positive,Delivery Speed
+591,الأكل كان مش طيب كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+592,Affordable prices and good food quality.,English,4,Algeria,Positive,Pricing
+593,La nourriture était fraîche et bien emballée.,French,5,Algeria,Positive,Packaging
+594,خدمة عملاء سيئة ولم يتم حل مشكلتي.,Arabic,1,Algeria,Negative,Customer Service
+595,The food was delivered on time and was tasty.,English,5,Algeria,Positive,Delivery Speed
+596,La plateforme a des bugs fréquents.,French,2,Algeria,Negative,App Usability
+597,الأكل وصل في الوقت المحدد وكانت الأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+598,The delivery was cold and the food was stale.,English,1,Algeria,Negative,Food Quality
+599,Très bon service et nourriture délicieuse.,French,5,Algeria,Positive,Food Quality
+600,التطبيق صعب الاستخدام ويتعطل كثيراً.,Arabic,2,Algeria,Negative,App Usability
+601,Good customer service and reliable delivery.,English,4,Algeria,Positive,Customer Service
+602,La nourriture n'était pas à la hauteur des attentes.,French,2,Algeria,Negative,Food Quality
+603,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+604,The prices are too high for the portion sizes.,English,2,Algeria,Negative,Pricing
+605,Livraison rapide et nourriture fraîche.,French,5,Algeria,Positive,Delivery Speed
+606,خدمة التوصيل ممتازة والأسعار جيدة.,Arabic,5,Algeria,Positive,Pricing
+607,The food arrived late and was cold.,English,1,Algeria,Negative,Delivery Speed
+608,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+609,الأكل ليس بطعمي المفضل.,Arabic,2,Algeria,Negative,Food Quality
+610,"Affordable and tasty meals, will order again.",English,4,Algeria,Positive,Pricing
+611,La livraison était lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+612,التطبيق يعمل بشكل جيد معظم الوقت.,Arabic,4,Algeria,Positive,App Usability
+613,"Food quality has declined, not satisfied.",English,2,Algeria,Negative,Food Quality
+614,Très bon rapport qualité-prix.,French,5,Algeria,Positive,Pricing
+615,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+616,The app is buggy and hard to use.,English,1,Algeria,Negative,App Usability
+617,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+618,الأكل ليس طازجاً كما كنت أتمنى.,Arabic,2,Algeria,Negative,Food Quality
+619,Good service and the food was tasty.,English,4,Algeria,Positive,Customer Service
+620,La livraison a été retardée sans raison.,French,2,Algeria,Negative,Delivery Speed
+621,الأكل وصل بسرعة وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+622,Review_Text,Language,Rating (1-5),Country,Sentiment (Positive/Negative),Aspect_Focus
+623,Livraison super rapide et la nourriture était bnina! 🍔,French,5,Algeria,Positive,Delivery Speed
+624,"La commande est arrivée barda, froide et retardée.",French,2,Algeria,Negative,Delivery Speed
+625,التوصيل سريع والاكل طيب جداً، شكراً لكم! 😊,Arabic,5,Algeria,Positive,Food Quality
+626,خدمة التوصيل سيئة جداً، الطعام وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+627,Great service! The delivery was on time and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+628,La nourriture était délicieuse mais le prix est un peu élevé.,French,4,Algeria,Positive,Pricing
+629,La plateforme est barda mais la livraison a pris trop de temps.,French,2,Algeria,Negative,Delivery Speed
+630,الأكل كان مش بطال ولكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+631,"Food arrived on time, but the quality could be better.",English,3,Algeria,Positive,Food Quality
+632,"Service client très réactif et efficace, merci! 👍",French,5,Algeria,Positive,Customer Service
+633,تطبيق التوصيل سهل الاستخدام ويعمل بشكل جيد.,Arabic,4,Algeria,Positive,App Usability
+634,The order was incorrect and it took forever to get it fixed.,English,2,Algeria,Negative,Order Accuracy
+635,Livraison rapide mais le repas n'était pas chaud.,French,3,Algeria,Negative,Food Quality
+636,الطلبية وصلت بسرعة وكانت الأسعار مناسبة.,Arabic,4,Algeria,Positive,Pricing
+637,Loved the packaging! Everything was secure and fresh. 🥗,English,5,Algeria,Positive,Packaging
+638,La nourriture était barda mais la livraison était lente.,French,2,Algeria,Negative,Delivery Speed
+639,تجربة توصيل ممتازة، شكراً لكم!,Arabic,5,Algeria,Positive,Customer Service
+640,"The app crashes frequently, making it hard to place orders.",English,1,Algeria,Negative,App Usability
+641,"Service moyen, rien de spécial.",French,3,Algeria,Positive,Customer Service
+642,الأكل كان طيب ولكن التأخير كان مزعج.,Arabic,2,Algeria,Negative,Delivery Speed
+643,Everything was perfect! Will order again. 😊,English,5,Algeria,Positive,Order Accuracy
+644,La livraison a été correcte mais le repas manque de saveur.,French,3,Algeria,Positive,Food Quality
+645,خدمة سيئة جدا، الطلب لم يصل في الوقت المحدد.,Arabic,1,Algeria,Negative,Delivery Speed
+646,"Good prices and tasty food, highly recommend!",English,4,Algeria,Positive,Pricing
+647,"La plateforme est bizzare parfois, mais généralement bien.",French,4,Algeria,Positive,App Usability
+648,الأكل وصل سريعاً ومغلف بشكل جيد.,Arabic,5,Algeria,Positive,Packaging
+649,The delivery person was rude and unprofessional.,English,1,Algeria,Negative,Customer Service
+650,Très satisfait de la qualité et de la rapidité.,French,5,Algeria,Positive,Delivery Speed
+651,التطبيق سهل ولكن بعض الأوقات لا يعمل.,Arabic,3,Algeria,Positive,App Usability
+652,"Food was okay, nothing bnina but acceptable.",English,3,Algeria,Positive,Food Quality
+653,Livraison rapide et service client au top!,French,5,Algeria,Positive,Customer Service
+654,الأكل بارد والتغليف غير جيد.,Arabic,2,Algeria,Negative,Packaging
+655,The prices are a bit high compared to local restaurants.,English,2,Algeria,Negative,Pricing
+656,"Tout était parfait, je recommande vivement! 👍",French,5,Algeria,Positive,Order Accuracy
+657,توصيل سريع ولكن الطعام لم يكن كما توقعت.,Arabic,3,Algeria,Positive,Food Quality
+658,App is user-friendly and easy to navigate.,English,4,Algeria,Positive,App Usability
+659,La nourriture était froide et sans goût.,French,1,Algeria,Negative,Food Quality
+660,خدمة عملاء ممتازة وسريعة الاستجابة.,Arabic,5,Algeria,Positive,Customer Service
+661,Delivery was delayed and the food was incomplete.,English,2,Algeria,Negative,Order Accuracy
+662,Les prix sont raisonnables pour la qualité offerte.,French,4,Algeria,Positive,Pricing
+663,الأكل لذيذ والتوصيل كان في الوقت المحدد.,Arabic,5,Algeria,Positive,Delivery Speed
+664,"The packaging was damaged, and some items were missing.",English,1,Algeria,Negative,Packaging
+665,"Service rapide et efficace, merci beaucoup!",French,5,Algeria,Positive,Customer Service
+666,التطبيق يتعطل أحياناً مما يسبب مشاكل.,Arabic,2,Algeria,Negative,App Usability
+667,Good food but the delivery was a bit slow.,English,3,Algeria,Positive,Delivery Speed
+668,La commande est arrivée rapidement et en bon état.,French,5,Algeria,Positive,Order Accuracy
+669,الأكل كان مشبعة وكانت الخدمة ممتازة.,Arabic,4,Algeria,Positive,Food Quality
+670,The app interface is confusing and not intuitive.,English,2,Algeria,Negative,App Usability
+671,Très déçu par la qualité du repas.,French,1,Algeria,Negative,Food Quality
+672,خدمة رائعة والأسعار مناسبة جداً.,Arabic,5,Algeria,Positive,Pricing
+673,La livraison était barda et le repas était délicieux!,French,5,Algeria,Positive,Food Quality
+674,الأكل بارد والمغلف سيء جداً.,Arabic,1,Algeria,Negative,Packaging
+675,"Great app usability, easy to place orders.",English,4,Algeria,Positive,App Usability
+676,La nourriture n'était pas bnina comme d'habitude.,French,2,Algeria,Negative,Food Quality
+677,التوصيل سريع والأكل لذيذ.,Arabic,5,Algeria,Positive,Delivery Speed
+678,The order was missing items and took too long to resolve.,English,1,Algeria,Negative,Order Accuracy
+679,Service client efficace et sympathique.,French,5,Algeria,Positive,Customer Service
+680,الأكل كان مش بطال ولكن لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+681,Prices are a bit high but the food is worth it.,English,4,Algeria,Positive,Pricing
+682,La livraison a été retardée et le repas froid.,French,2,Algeria,Negative,Delivery Speed
+683,التطبيق سهل الاستخدام لكن هناك بعض المشاكل.,Arabic,3,Algeria,Positive,App Usability
+684,Food quality has declined recently.,English,2,Algeria,Negative,Food Quality
+685,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+686,الأكل وصل بارد ولم يكن لذيذاً.,Arabic,2,Algeria,Negative,Food Quality
+687,"Excellent packaging, nothing was spilled.",English,5,Algeria,Positive,Packaging
+688,La nourriture était ok mais le service client est mauvais.,French,2,Algeria,Negative,Customer Service
+689,خدمة التوصيل بطيئة جداً.,Arabic,1,Algeria,Negative,Delivery Speed
+690,The app is intuitive and works smoothly.,English,4,Algeria,Positive,App Usability
+691,La livraison a été rapide et le repas était bnina.,French,5,Algeria,Positive,Delivery Speed
+692,الأكل كان مش طيب كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+693,Affordable prices and good food quality.,English,4,Algeria,Positive,Pricing
+694,La nourriture était fraîche et bien emballée.,French,5,Algeria,Positive,Packaging
+695,خدمة عملاء سيئة ولم يتم حل مشكلتي.,Arabic,1,Algeria,Negative,Customer Service
+696,The food was delivered on time and was tasty.,English,5,Algeria,Positive,Delivery Speed
+697,La plateforme a des bugs fréquents.,French,2,Algeria,Negative,App Usability
+698,الأكل وصل في الوقت المحدد وكانت الأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+699,The delivery was cold and the food was stale.,English,1,Algeria,Negative,Food Quality
+700,Très bon service et nourriture délicieuse.,French,5,Algeria,Positive,Food Quality
+701,التطبيق صعب الاستخدام ويتعطل كثيراً.,Arabic,2,Algeria,Negative,App Usability
+702,Good customer service and reliable delivery.,English,4,Algeria,Positive,Customer Service
+703,La nourriture n'était pas à la hauteur des attentes.,French,2,Algeria,Negative,Food Quality
+704,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+705,The prices are too high for the portion sizes.,English,2,Algeria,Negative,Pricing
+706,Livraison rapide et nourriture fraîche.,French,5,Algeria,Positive,Delivery Speed
+707,خدمة التوصيل ممتازة والأسعار جيدة.,Arabic,5,Algeria,Positive,Pricing
+708,The food arrived late and was cold.,English,1,Algeria,Negative,Delivery Speed
+709,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+710,الأكل ليس بطعمي المفضل.,Arabic,2,Algeria,Negative,Food Quality
+711,"Affordable and tasty meals, will order again.",English,4,Algeria,Positive,Pricing
+712,La livraison était lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+713,التطبيق يعمل بشكل جيد معظم الوقت.,Arabic,4,Algeria,Positive,App Usability
+714,"Food quality has declined, not satisfied.",English,2,Algeria,Negative,Food Quality
+715,Très bon rapport qualité-prix.,French,5,Algeria,Positive,Pricing
+716,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+717,The app is buggy and hard to use.,English,1,Algeria,Negative,App Usability
+718,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+719,الأكل ليس طازجاً كما كنت أتمنى.,Arabic,2,Algeria,Negative,Food Quality
+720,Good service and the food was tasty.,English,4,Algeria,Positive,Customer Service
+721,La livraison a été retardée sans raison.,French,2,Algeria,Negative,Delivery Speed
+722,الأكل وصل بسرعة وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+723,"La commande est arrivée en un temps record, merci!",French,5,Algeria,Positive,Delivery Speed
+724,الأكل وصل متأخراً وكان غير ساخن.,Arabic,2,Algeria,Negative,Delivery Speed
+725,The food was fresh and tasted great.,English,5,Algeria,Positive,Food Quality
+726,La plateforme est parfois lente à charger.,French,3,Algeria,Positive,App Usability
+727,خدمة التوصيل ممتازة والأسعار معقولة.,Arabic,5,Algeria,Positive,Pricing
+728,The order was wrong and the customer service was unhelpful.,English,1,Algeria,Negative,Order Accuracy
+729,La nourriture était savoureuse et bien emballée.,French,5,Algeria,Positive,Food Quality
+730,الأكل بارد ولم يكن جيداً كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+731,Great variety of food options available.,English,4,Algeria,Positive,Food Quality
+732,La livraison a été rapide mais le repas était moyen.,French,3,Algeria,Positive,Delivery Speed
+733,الأكل طيب ولكن التغليف كان سيء.,Arabic,3,Algeria,Positive,Packaging
+734,The app is easy to use and efficient.,English,5,Algeria,Positive,App Usability
+735,La commande a été incorrecte et j'ai dû attendre longtemps.,French,2,Algeria,Negative,Order Accuracy
+736,الأكل وصل بسرعة وكان بنين جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+737,The food was decent but not exceptional.,English,3,Algeria,Positive,Food Quality
+738,La livraison était lente et le repas était froid.,French,1,Algeria,Negative,Delivery Speed
+739,الأكل لذيذ والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+740,"The app often crashes, making it difficult to order.",English,1,Algeria,Negative,App Usability
+741,La nourriture était excellente et le service rapide.,French,5,Algeria,Positive,Food Quality
+742,الأكل وصل بارد ولم يكن طازجاً.,Arabic,2,Algeria,Negative,Food Quality
+743,Good prices for the quality of food.,English,4,Algeria,Positive,Pricing
+744,La commande est arrivée en bon état et rapidement.,French,5,Algeria,Positive,Order Accuracy
+745,الأكل كان طيب ولكن التوصيل كان بطيئاً.,Arabic,3,Algeria,Positive,Delivery Speed
+746,The food was not as advertised.,English,2,Algeria,Negative,Food Quality
+747,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+748,الأكل وصل في الوقت المحدد وكان طازجاً.,Arabic,5,Algeria,Positive,Delivery Speed
+749,The delivery was prompt and the food was delicious.,English,5,Algeria,Positive,Delivery Speed
+750,La livraison a été retardée sans explication.,French,2,Algeria,Negative,Delivery Speed
+751,الأكل كان بنين ولكن الخدمة كانت سيئة.,Arabic,2,Algeria,Negative,Customer Service
+752,The app is user-friendly and reliable.,English,5,Algeria,Positive,App Usability
+753,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+754,الأكل وصل بارد وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+755,Great selection of restaurants available.,English,4,Algeria,Positive,Food Quality
+756,La commande est arrivée en bon état mais était tard.,French,3,Algeria,Positive,Order Accuracy
+757,الأكل كان جيداً لكن التغليف كان ضعيف.,Arabic,3,Algeria,Positive,Packaging
+758,The food was delivered on time and was fresh.,English,5,Algeria,Positive,Delivery Speed
+759,La livraison a été très lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+760,الأكل كان لذيذاً والخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+761,The app has a lot of bugs and crashes often.,English,1,Algeria,Negative,App Usability
+762,La nourriture était excellente et la livraison rapide.,French,5,Algeria,Positive,Food Quality
+763,الأكل وصل متأخراً وكان بارداً.,Arabic,2,Algeria,Negative,Delivery Speed
+764,Affordable and delicious meals.,English,4,Algeria,Positive,Pricing
+765,La commande était complète et correcte.,French,5,Algeria,Positive,Order Accuracy
+766,الأكل كان مش بطال ولكنه لم يكن طازجاً.,Arabic,3,Algeria,Positive,Food Quality
+767,The delivery was quick and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+768,La livraison était lente et le repas غير جيد.,French,2,Algeria,Negative,Delivery Speed
+769,الأكل وصل في الوقت المحدد وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+770,The app is difficult to navigate and slow.,English,1,Algeria,Negative,App Usability
+771,La nourriture était savoureuse et bien présentée.,French,5,Algeria,Positive,Food Quality
+772,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+773,Excellent service and delicious food.,English,5,Algeria,Positive,Customer Service
+774,La plateforme a des problèmes techniques fréquents.,French,2,Algeria,Negative,App Usability
+775,الأكل وصل سريعاً وكان طيباً.,Arabic,5,Algeria,Positive,Delivery Speed
+776,The food quality has decreased over time.,English,2,Algeria,Negative,Food Quality
+777,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+778,الأكل وصل بارد ومغلف بشكل سيء.,Arabic,1,Algeria,Negative,Packaging
+779,Good prices and the food was tasty.,English,4,Algeria,Positive,Pricing
+780,La commande a été incorrecte et a pris du temps à résoudre.,French,2,Algeria,Negative,Order Accuracy
+781,الأكل كان طازجاً ولذيذاً.,Arabic,5,Algeria,Positive,Food Quality
+782,The app is stable and easy to use.,English,5,Algeria,Positive,App Usability
+783,La nourriture était médiocre et le service mauvais.,French,1,Algeria,Negative,Food Quality
+784,الأكل وصل في الوقت المحدد وكان طازجاً.,Arabic,5,Algeria,Positive,Delivery Speed
+785,The delivery was prompt and efficient.,English,5,Algeria,Positive,Delivery Speed
+786,La plateforme est difficile à utiliser.,French,2,Algeria,Negative,App Usability
+787,الأكل كان بنين جداً وخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+788,The food was delivered cold and was not fresh.,English,1,Algeria,Negative,Food Quality
+789,La livraison a été rapide et sans erreurs.,French,5,Algeria,Positive,Order Accuracy
+790,الأكل وصل متأخراً وكان بارداً.,Arabic,2,Algeria,Negative,Delivery Speed
+791,Great selection and tasty food options.,English,4,Algeria,Positive,Food Quality
+792,La commande était incomplète et le service client était nul.,French,1,Algeria,Negative,Order Accuracy
+793,الأكل كان لذيذاً جداً والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+794,The app frequently crashes and is hard to use.,English,1,Algeria,Negative,App Usability
+795,La nourriture était fraîche et arrivée rapidement.,French,5,Algeria,Positive,Delivery Speed
+796,الأكل وصل بارد ولم يكن طازجاً.,Arabic,2,Algeria,Negative,Food Quality
+797,Affordable prices and delicious meals.,English,4,Algeria,Positive,Pricing
+798,La livraison a été efficace et le repas délicieux.,French,5,Algeria,Positive,Delivery Speed
+799,الأكل كان باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+800,The food was tasty and arrived on time.,English,5,Algeria,Positive,Delivery Speed
+801,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+802,الأكل وصل بسرعة وكان طيباً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+803,The food quality is inconsistent.,English,3,Algeria,Positive,Food Quality
+804,La commande est arrivée en bon état et rapidement.,French,5,Algeria,Positive,Order Accuracy
+805,الأكل كان طيبًا ولكن الخدمة بطيئة.,Arabic,3,Algeria,Positive,Delivery Speed
+806,The app is user-friendly and reliable.,English,5,Algeria,Positive,App Usability
+807,La nourriture était médiocre et le service mauvais.,French,1,Algeria,Negative,Food Quality
+808,الأكل وصل متأخرًا وكان باردًا.,Arabic,2,Algeria,Negative,Delivery Speed
+809,Great variety and delicious food options.,English,4,Algeria,Positive,Food Quality
+810,La plateforme est lente et difficile à naviguer.,French,2,Algeria,Negative,App Usability
+811,الأكل كان لذيذاً جدًا وخدمة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+812,The delivery was slow and the food was cold.,English,1,Algeria,Negative,Delivery Speed
+813,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+814,الأكل وصل بارداً وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+815,Affordable prices and tasty meals.,English,4,Algeria,Positive,Pricing
+816,La commande était correcte et arrivée à temps.,French,5,Algeria,Positive,Order Accuracy
+817,الأكل كان طيبًا لكن التغليف كان ضعيفاً.,Arabic,3,Algeria,Positive,Packaging
+818,The food was delicious and arrived promptly.,English,5,Algeria,Positive,Delivery Speed
+819,La livraison a été très lente et le repas froid.,French,1,Algeria,Negative,Delivery Speed
+820,الأكل كان لذيذاً جدًا والتغليف ممتاز.,Arabic,5,Algeria,Positive,Food Quality
+821,The app is buggy and hard to navigate.,English,1,Algeria,Negative,App Usability
+822,La nourriture était excellente et bien présentée.,French,5,Algeria,Positive,Food Quality
+823,La livraison a été très rapide et le repas était bnina!,French,5,Algeria,Positive,Delivery Speed
+824,The food was delicious and the delivery was prompt.,English,5,Algeria,Positive,Food Quality
+825,La plateforme a des problèmes de connexion fréquents.,French,2,Algeria,Negative,App Usability
+826,خدمة التوصيل ممتازة والأسعار مناسبة.,Arabic,5,Algeria,Positive,Pricing
+827,The delivery was late and the food was cold.,English,1,Algeria,Negative,Delivery Speed
+828,La nourriture était fraîche et savoureuse.,French,5,Algeria,Positive,Food Quality
+829,الأكل وصل بسرعة وكان طيبًا جدًا.,Arabic,5,Algeria,Positive,Delivery Speed
+830,The app is user-friendly but sometimes crashes.,English,3,Algeria,Positive,App Usability
+831,La commande a été incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+832,الأكل كان طيبًا ولكن التغليف كان سيئًا.,Arabic,3,Algeria,Positive,Packaging
+833,Great variety of dishes available on the app.,English,5,Algeria,Positive,Food Quality
+834,La livraison était rapide mais le repas était moyen.,French,3,Algeria,Positive,Delivery Speed
+835,الأكل وصل باردًا ولم يكن لذيذًا.,Arabic,2,Algeria,Negative,Food Quality
+836,The food was tasty and arrived on time. 😊,English,5,Algeria,Positive,Food Quality
+837,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+838,الأكل كان غير طازج والخدمة بطيئة.,Arabic,2,Algeria,Negative,Food Quality
+839,Excellent customer service and delicious food!,English,5,Algeria,Positive,Customer Service
+840,La nourriture était délicieuse et bien emballée.,French,5,Algeria,Positive,Packaging
+841,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+842,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+843,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+844,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+845,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+846,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+847,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+848,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+849,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+850,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+851,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+852,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+853,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+854,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+855,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+856,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+857,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+858,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+859,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+860,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+861,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+862,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+863,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+864,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+865,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+866,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+867,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+868,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+869,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+870,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+871,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+872,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+873,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+874,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+875,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+876,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+877,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+878,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+879,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+880,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+881,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+882,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+883,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+884,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+885,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+886,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+887,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+888,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+889,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+890,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+891,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+892,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+893,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+894,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+895,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+896,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+897,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+898,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+899,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+900,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+901,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+902,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+903,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+904,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+905,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+906,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+907,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+908,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+909,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+910,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+911,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+912,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+913,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+914,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+915,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+916,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+917,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+918,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+919,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+920,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+921,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+922,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+923,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+924,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+925,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+926,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+927,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+928,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+929,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+930,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+931,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+932,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+933,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+934,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+935,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+936,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+937,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+938,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+939,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+940,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+941,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+942,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+943,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+944,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+945,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+946,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+947,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+948,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+949,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+950,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+951,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+952,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+953,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+954,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+955,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+956,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+957,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+958,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+959,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+960,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+961,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+962,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+963,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+964,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+965,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+966,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+967,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+968,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+969,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+970,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+971,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+972,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+973,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+974,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+975,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+976,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+977,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+978,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+979,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+980,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+981,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+982,The delivery was efficient and the food was fresh.,English,5,Algeria,Positive,Delivery Speed
+983,La commande est arrivée en retard et le repas était froid.,French,2,Algeria,Negative,Delivery Speed
+984,الأكل كان طيبًا ولكن السعر كان مرتفعًا.,Arabic,3,Algeria,Positive,Pricing
+985,The app is intuitive and easy to navigate.,English,5,Algeria,Positive,App Usability
+986,La livraison a été impeccable et rapide.,French,5,Algeria,Positive,Delivery Speed
+987,الأكل وصل باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+988,Great food quality and fast delivery.,English,5,Algeria,Positive,Food Quality
+989,La plateforme a des bugs et est lente.,French,2,Algeria,Negative,App Usability
+990,The delivery was prompt and the food was tasty.,English,5,Algeria,Positive,Delivery Speed
+991,La nourriture était moyenne et le service médiocre.,French,2,Algeria,Negative,Food Quality
+992,الأكل وصل بسرعة وكان طيبًا.,Arabic,5,Algeria,Positive,Delivery Speed
+993,"The app crashes too often, making ordering difficult.",English,1,Algeria,Negative,App Usability
+994,La livraison était rapide et le repas était délicieux.,French,5,Algeria,Positive,Delivery Speed
+995,الأكل وصل باردًا ولم يكن جيدًا.,Arabic,2,Algeria,Negative,Food Quality
+996,Excellent packaging and fresh food!,English,5,Algeria,Positive,Packaging
+997,La plateforme est parfois difficile à naviguer.,French,3,Algeria,Positive,App Usability
+998,الأكل كان طيبًا لكن التوصيل كان بطيئًا.,Arabic,3,Algeria,Positive,Delivery Speed
+999,The food was delicious but the delivery was slow.,English,3,Algeria,Positive,Food Quality
+1000,La nourriture était fraîche et bien présentée.,French,5,Algeria,Positive,Food Quality
+1001,الأكل وصل بسرعة وكان لذيذاً.,Arabic,5,Algeria,Positive,Delivery Speed
+1002,The app is user-friendly and works smoothly.,English,5,Algeria,Positive,App Usability
+1003,La commande était incorrecte et le service client était lent.,French,2,Algeria,Negative,Order Accuracy
+1004,الأكل كان باردًا وغير طازج.,Arabic,2,Algeria,Negative,Food Quality
+1005,Great selection and delicious food options.,English,5,Algeria,Positive,Food Quality
+1006,La livraison a été rapide et sans problèmes.,French,5,Algeria,Positive,Delivery Speed
+1007,The food was tasty and arrived on time.,English,5,Algeria,Positive,Food Quality
+1008,La plateforme est fiable et facile à utiliser.,French,5,Algeria,Positive,App Usability
+1009,الأكل وصل بسرعة وكان لذيذاً جداً.,Arabic,5,Algeria,Positive,Delivery Speed
+1010,La livraison était super rapide et la qualité des plats excellente.,French,5,Algeria,Positive,Delivery Speed
+1011,La nourriture était froide et le service décevant.,French,2,Algeria,Negative,Food Quality
+1012,app needs improvement.,English,3,Algeria,Negative,App Usability
+1013,البطاطا كانت باردة والطعام بشكل عام غير لذيذ.,Arabic,1,Algeria,Negative,Food Quality
+1014,The delivery was quick but the food could have been better.,English,2,Algeria,Negative,Delivery Speed
+1015,Fantastic service! The food arrived in no time and was still hot.,English,5,Algeria,Positive,Delivery Speed
+1016,La nourriture était un peu trop épicée à mon goût  mais le service était top.,French,3,Algeria,Negative,Food Quality
+1017,The food was fresh and well-packaged and the driver was friendly.,English,5,Algeria,Positive,Packaging
+1018,Les plats étaient moyens et la livraison a pris trop de temps.,French,2,Algeria,Negative,Food Quality
+1019,The food arrived late but the quality was still good.,English,3,Algeria,Positif,Delivery Speed
+1020,جودة الطعام كانت ممتازة ولكن التوصيل تأخر.,Arabic,4,Algeria,Positive,Food Quality
+1021,La livraison était parfaite mais j'ai eu des problèmes avec l'application.,French,3,Algeria,Positif,App Usability
+1022,the packaging could be improved.,English,2,Algeria,Negative,Packaging
+1023,الأكل كان جيدا لكن التوصيل كان بطيئا جدا.,Arabic,2,Algeria,Negative,Delivery Speed
+1024,Perfect experience the food was hot and on time.,English,5,Algeria,Positive,Delivery Speed
+1025,La nourriture était bonne mais le prix était un peu élevé.,French,4,Algeria,Positive,Pricing
+1026,الخدمة جيدة ولكن السعر مرتفع بعض الشيء.,Arabic,4,Algeria,Positive,Pricing
+1027,La nourriture était fraîche et délicieuse je suis satisfait.,French,5,Algeria,Positive,Food Quality
+1028,The food was cold and tasted bland.,English,2,Algeria,Negative,Food Quality
+1029,خدمة رائعة والطعام لذيذ جدًا!,Arabic,5,Algeria,Positive,Food Quality
+1030,La livraison a été extrêmement rapide et les plats étaient encore chauds à l'arrivée. Très satisfait de l'expérience!,French,5,Algeria,Positive,Delivery Speed
+1031,الخدمة كانت جيدة ولكن الطعام لم يكن لذيذاً كما توقعت وكان باردًا جدًا عند وصوله.,Arabic,2,Algeria,Negative,Food Quality
+1032,"The food was fantastic, fresh, and flavorful. It arrived on time, and I was thoroughly impressed!",English,5,Algeria,Positive,Food Quality
+1033,"L'application est souvent lente et plantait à plusieurs reprises, ce qui a rendu l'expérience frustrante.",French,2,Algeria,Negative,App Usability
+1034,وصل الطعام بسرعة كبيرة وكان طازجًا ولذيذًا، خدمة ممتازة!,Arabic,5,Algeria,Positive,Delivery Speed
+1035,"The food took far too long to arrive, and when it finally did, it was cold. Not happy with the service.",English,1,Algeria,Negative,Delivery Speed
+1036,"Les repas étaient très bien emballés, aucun problème avec la présentation. Très bonne qualité.",French,5,Algeria,Positive,Packaging
+1037,الخدمة كانت ممتازة، الموظفون كانوا ودودين واستجابوا بسرعة لاحتياجاتي. تجربة رائعة.,Arabic,5,Algeria,Positive,Customer Service
+1038,"The packaging was subpar, and the food arrived slightly damaged. Needs improvement.",English,2,Algeria,Negative,Packaging
+1039,Les prix sont abordables et la qualité est au rendez-vous. Une excellente option pour les repas rapides!,French,5,Algeria,Positive,Pricing
+1040,الطلب وصل غير دقيق، وكان جزء من الطعام مفقودًا. خدمة العملاء كانت بطيئة في الرد.,Arabic,2,Algeria,Negative,Order Accuracy
+1041,"Delicious food, fresh ingredients, and perfect portions. Will definitely order again!",English,5,Algeria,Positive,Food Quality
+1042,"La livraison a été trop lente, et le repas était froid à son arrivée. Décevant.",French,2,Algeria,Negative,Delivery Speed
+1043,الطعام كان شهيًا وجاء في الوقت المحدد. تجربة ممتازة.,Arabic,5,Algeria,Positive,Food Quality
+1044,The app is really intuitive and easy to navigate. Ordering food has never been simpler!,English,5,Algeria,Positive,App Usability
+1045,"La livraison a pris beaucoup trop de temps, et le repas était froid à l'arrivée.",French,1,Algeria,Negative,Delivery Speed
+1046,التغليف كان ممتازًا والطعام وصل في حالة جيدة جدًا. تجربة رائعة.,Arabic,5,Algeria,Positive,Packaging
+1047,La livraison a été rapide et le repas était encore chaud et délicieux. Très content de mon choix!,French,5,Algeria,Positive,Delivery Speed
+1048,الطعام كان باردًا وغير طازج، كانت التجربة مخيبة للآمال.,Arabic,2,Algeria,Negative,Food Quality
+1049,The food was amazing and the delivery was punctual. Very pleased with the overall service!,English,5,Algeria,Positive,Food Quality
+1050,"L'application a rencontré des problèmes techniques qui ont ralenti ma commande, ce qui était frustrant.",French,2,Algeria,Negative,App Usability
+1051,الطعام وصل بسرعة وكان طازجًا ولذيذًا، خدمة رائعة.,Arabic,5,Algeria,Positive,Delivery Speed
+1052,"The delivery took too long, and the food arrived lukewarm at best. Disappointed.",English,1,Algeria,Negative,Delivery Speed
+1053,"Les plats étaient bien présentés et emballés soigneusement, rien à redire.",French,5,Algeria,Positive,Packaging
+1054,كان الموظفون في الخدمة سريعًا ومساعدين جدًا. كانت تجربة جيدة.,Arabic,5,Algeria,Positive,Customer Service
+1055,"The food arrived poorly packed, and it was a mess. The delivery service needs improvement.",English,2,Algeria,Negative,Packaging
+1056,"Les prix sont compétitifs et la qualité des plats était excellente, une belle surprise!",French,5,Algeria,Positive,Pricing
+1057,لم يكن الطلب دقيقًا، وكان بعض العناصر مفقودة. أحتاج إلى تحسين في دقة الخدمة.,Arabic,2,Algeria,Negative,Order Accuracy
+1058,"Great meal, perfect temperature, and right on time. Would definitely order again!",English,5,Algeria,Positive,Food Quality
+1059,La livraison a pris un peu plus de temps que prévu et le repas est arrivé froid.,French,2,Algeria,Negative,Delivery Speed
+1060,الطعام كان لذيذًا وجاء في الموعد المحدد. تجربة ممتازة!,Arabic,5,Algeria,Positive,Food Quality
+1061,"The app is quite easy to use, but it tends to freeze during checkout. Needs improvement.",English,3,Algeria,Positive,App Usability
+1062,"Le repas était chaud et savoureux, je recommande vivement ce service!",French,5,Algeria,Positive,Food Quality
+1063,الخدمة كانت بطيئة والطعام كان غير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+1064,The food was delivered right on time and was hot and delicious. Great service overall.,English,5,Algeria,Positive,Delivery Speed
+1065,التغليف كان سيئًا وكان الطعام قد تساقط أثناء النقل.,Arabic,2,Algeria,Negative,Packaging
+1066,La commande est arrivée rapidement et le repas était encore bien chaud. Très content de la livraison!,French,5,Algeria,Positive,Delivery Speed
+1067,الطعام كان باردًا للغاية ولم يكن لذيذًا كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+1068,"The delivery was quick, and the food was fresh and tasty. Great experience!",English,5,Algeria,Positive,Food Quality
+1069,L'application est lente et l'interface est un peu confuse. Il y a de la place pour des améliorations.,French,2,Algeria,Negative,App Usability
+1070,الطعام وصل في الوقت المحدد وكان طازجًا جدًا. خدمة رائعة.,Arabic,5,Algeria,Positive,Delivery Speed
+1071,"I had to wait a long time for the food, and it was lukewarm. Definitely not happy with the service.",English,1,Algeria,Negative,Delivery Speed
+1072,"Le plat était bien présenté et le packaging était parfait, rien ne manquait.",French,5,Algeria,Positive,Packaging
+1073,كانت الخدمة سريعة جدًا والموظفون متعاونون. كانت تجربة لطيفة.,Arabic,5,Algeria,Positive,Customer Service
+1074,The packaging was a disaster. The food was all over the place when it arrived.,English,2,Algeria,Negative,Packaging
+1075,Les prix sont raisonnables et les portions sont généreuses. Je recommande!,French,5,Algeria,Positive,Pricing
+1076,لقد كان الطلب غير دقيق، وتم فقدان بعض العناصر. تجربة غير مرضية.,Arabic,2,Algeria,Negative,Order Accuracy
+1077,"Amazing food! Fresh and hot when it arrived, and the delivery was spot on.",English,5,Algeria,Positive,Food Quality
+1078,La livraison a pris trop de temps et le plat est arrivé froid. Très décevant.,French,2,Algeria,Negative,Delivery Speed
+1079,الطعام كان لذيذًا والطريقة التي تم تحضيره بها كانت رائعة. سأطلب مجددًا بالتأكيد!,Arabic,5,Algeria,Positive,Food Quality
+1080,"The app works fine, but sometimes it takes longer to process the order. Needs some improvements.",English,3,Algeria,Positive,App Usability
+1081,Le repas était délicieux et la livraison rapide. Très satisfait de la commande.,French,5,Algeria,Positive,Food Quality
+1082,الخدمة كانت بطيئة والطعام لم يكن جيدًا. لم أكن راضيًا عن التجربة.,Arabic,2,Algeria,Negative,Food Quality
+1083,"Food arrived right on time, and it was just perfect. Will be ordering again for sure!",English,5,Algeria,Positive,Delivery Speed
+1084,التغليف كان غير ملائم ونتج عن ذلك تضرر الطعام أثناء النقل.,Arabic,2,Algeria,Negative,Packaging
+1085,"Livraison rapide, nourriture excellente.",French,5,Algeria,Positive,Food Quality
+1086,الطعام كان باردًا.,Arabic,2,Algeria,Negative,Food Quality
+1087,"Great delivery, but food was average.",English,3,Algeria,Positive,Food Quality
+1088,La commande est arrivée tard.,French,2,Algeria,Negative,Delivery Speed
+1089,الطعام لذيذ والتوصيل كان سريعًا.,Arabic,5,Algeria,Positive,Delivery Speed
+1090,"Food was good, but the app is slow.",English,3,Algeria,Positive,App Usability
+1091,"Très bon service, je recommande!",French,5,Algeria,Positive,Customer Service
+1092,الخدمة كانت جيدة، لكن الطعام كان باردًا.,Arabic,3,Algeria,Positive,Food Quality
+1093,The food was cold and the app is glitchy.,English,2,Algeria,Negative,App Usability
+1094,Livraison rapide et nourriture chaude.,French,5,Algeria,Positive,Delivery Speed
+1095,La commande est arrivée très rapidement et la nourriture était délicieuse.,French,5,Algeria,Positive,Food Quality
+1096,الطعام كان سيئًا ولم يكن كما توقعت.,Arabic,2,Algeria,Negative,Food Quality
+1097,Great timing and the food was fantastic.,English,5,Algeria,Positive,Food Quality
+1098,La livraison a pris trop longtemps et la qualité n'était pas au rendez-vous.,French,2,Algeria,Negative,Delivery Speed
+1099,الطعام كان رائعًا والطلب وصل في الوقت المحدد.,Arabic,5,Algeria,Positive,Delivery Speed
+1100,The food was cold and tasteless. Not happy.,English,2,Algeria,Negative,Food Quality
+1101,"Le repas était délicieux, je vais recommander!",French,5,Algeria,Positive,Food Quality
+1102,التطبيق بطيء والخدمة لم تكن جيدة.,Arabic,2,Algeria,Negative,App Usability
+1103,"Delivery was perfect, food was amazing.",English,5,Algeria,Positive,Delivery Speed
+1104,الخدمة كانت بطيئة والطعام لم يكن طازجًا.,Arabic,2,Algeria,Negative,Food Quality
+1105,La livraison a été impeccable et les plats étaient savoureux.,French,5,Algeria,Positive,Delivery Speed
+1106,الطعام كان جافًا وغير شهي.,Arabic,1,Algeria,Negative,Food Quality
+1107,"Excellent experience, the meal was top-notch!",English,5,Algeria,Positive,Food Quality
+1108,"J'ai attendu trop longtemps, la nourriture était décevante.",French,2,Algeria,Negative,Delivery Speed
+1109,الوجبة كانت لذيذة ولكن التوصيل تأخر.,Arabic,4,Algeria,Positive,Delivery Speed
+1110,The meal was cold and lacked flavor.,English,2,Algeria,Negative,Food Quality
+1111,Très satisfait de la rapidité et de la qualité.,French,5,Algeria,Positive,Delivery Speed
+1112,التطبيق غير مستقر ويوجد مشاكل كثيرة.,Arabic,1,Algeria,Negative,App Usability
+1113,"The food was just okay, nothing special.",English,3,Algeria,Negative,Food Quality
+1114,La nourriture était bien chaude et le service rapide.,French,5,Algeria,Positive,Food Quality
+1115,La commande est arrivée à temps et le plat était succulent.,French,5,Algeria,Positive,Delivery Speed
+1116,الطعام كان باردًا وغير لذيذ.,Arabic,2,Algeria,Negative,Food Quality
+1117,I was really impressed with how quickly everything was delivered!,English,5,Algeria,Positive,Delivery Speed
+1118,Le plat était froid et n'avait pas de goût.,French,1,Algeria,Negative,Food Quality
+1119,The food was hot and tasted amazing!,English,5,Algeria,Positive,Food Quality
+1120,التوصيل استغرق وقتًا طويلاً والطعام كان دون المستوى.,Arabic,2,Algeria,Negative,Delivery Speed
+1121,"The app works well, but I wish it had more features.",English,3,Algeria,Negative,App Usability
+1122,"Le service était lent, mais la nourriture était acceptable.",French,3,Algeria,Negative,Delivery Speed
+1123,"It was a perfect experience. Fast delivery, excellent food.",English,5,Algeria,Positive,Delivery Speed
+1124,التطبيق ممتاز لكن كان يحتاج لتحديثات.,Arabic,4,Algeria,Positive,App Usability
+1125,La commande est arrivée rapidement et était bien préparée.,French,5,Algeria,Positive,Food Quality
+1126,La qualité de la nourriture n'était pas à la hauteur.,French,2,Algeria,Negative,Food Quality
+1127,"It was a great meal, and everything arrived on time.",English,5,Algeria,Positive,Food Quality
+1128,الطعام كان باردًا والتوصيل تأخر.,Arabic,2,Algeria,Negative,Food Quality
+1129,"Great food and fast service. The burgers were tasty and the staff was friendly. The fries had a nice blend of spices, although the burger meat could be better. A little too much sauce for my taste, but overall, a solid experience. Delivery took a bit longer than expected, but I would still try again.",English,4,Algeria,Positive,Burger Quality
+1130,"Fast delivery but the food was not as expected. Burgers had too much sauce, not enough seasoning.",English,2,Algeria,Negative,Burger Quality
+1131,"Delivery was prompt, and the food was still warm. The burger was tasty, but the portion size was small.",English,4,Algeria,Positive,Burger Quality
+1132,"Food was cold upon arrival. The chicken was dry, and the fries were not crispy.",English,1,Algeria,Negative,Food Quality
+1133,"The delivery was fast and food was good. The burger was a bit dry, but the fries were excellent.",English,4,Algeria,Positive,Burger Quality
+1134,"Fast service, but the food was disappointing. The fries were soggy, and the burger lacked flavor.",English,2,Algeria,Negative,Food Quality
+1135,"Delivery was on time, and the food was hot. The burger was delicious, but the fries could have been better.",English,4,Algeria,Positive,Burger Quality
+1136,"Service was fast, but the burger was not good, too greasy and tasteless.",English,2,Algeria,Negative,Burger Quality
+1137,"The food arrived quickly, but it was cold. The burger tasted good, but the fries were not great.",English,3,Algeria,Negative,Food Temperature
