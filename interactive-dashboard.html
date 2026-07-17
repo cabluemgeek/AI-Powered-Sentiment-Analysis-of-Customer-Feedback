@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yassir Sentiment Analysis Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background:#f4f6fb;
+}
+
+/* ================= HEADER ================= */
+header{
+    background:#1f4e79;
+    color:white;
+    text-align:center;
+    padding:25px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.2);
+}
+header h1{ margin-bottom:8px; }
+header p{ opacity:0.9; font-size:17px; }
+
+/* ================= BUTTONS ================= */
+.button-container{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:12px;
+    padding:25px;
+}
+.toggle-btn{
+    padding:12px 22px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    background:#e5e5e5;
+    font-size:15px;
+    font-weight:bold;
+    transition:.3s;
+}
+.toggle-btn:hover{ background:#d4d4d4; }
+.toggle-btn.active{ background:#1f77b4; color:white; }
+
+/* ================= CARD ================= */
+.card{
+    width:95%;
+    max-width:1200px;
+    margin:auto;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+    padding:20px;
+    margin-bottom:40px;
+}
+#graphTitle{
+    text-align:center;
+    color:#1f4e79;
+    margin-bottom:20px;
+}
+
+/* ================= CHART AREA ================= */
+.chart-wrap{
+    position:relative;
+    width:100%;
+    height:65vh;
+    min-height:420px;
+    max-height:600px;
+}
+.legend-note{
+    text-align:center;
+    color:#777;
+    font-size:13px;
+    margin-top:14px;
+}
+
+/* ================= WORD CLOUD PANEL ================= */
+.wordcloud-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:16px;
+}
+.wordcloud-grid img{
+    width:100%;
+    border-radius:8px;
+    border:1px solid #eee;
+}
+.wordcloud-caption{
+    text-align:center;
+    font-size:13px;
+    color:#555;
+    margin-top:6px;
+}
+@media (max-width:700px){
+    .wordcloud-grid{ grid-template-columns:1fr; }
+    .chart-wrap{ height:55vh; min-height:340px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Yassir Customer Feedback — Sentiment Dashboard</h1>
+    <p>Multilingual review analysis: sentiment, ratings, aspects, and language mix</p>
+</header>
+
+<div class="button-container">
+    <button class="toggle-btn active" data-view="sentiment">Sentiment Distribution</button>
+    <button class="toggle-btn" data-view="ratings">Ratings Distribution</button>
+    <button class="toggle-btn" data-view="perRating">Sentiment per Rating</button>
+    <button class="toggle-btn" data-view="aspects">Reviews per Aspect</button>
+    <button class="toggle-btn" data-view="language">Language Distribution</button>
+    <button class="toggle-btn" data-view="wordclouds">Word Clouds</button>
+</div>
+
+<div class="card">
+    <h2 id="graphTitle">Sentiment Distribution</h2>
+
+    <div class="chart-wrap" id="chart-container">
+        <canvas id="mainChart" role="img" aria-label="Yassir sentiment analysis chart"></canvas>
+    </div>
+
+    <div class="wordcloud-grid" id="wordcloud-container" style="display:none;">
+        <div>
+            <img src="word clouds\latin word cloud - positive.png" alt="Positive reviews word cloud, French/English">
+            <div class="wordcloud-caption">Positive reviews (French/English)</div>
+        </div>
+        <div>
+            <img src="word clouds\latin word cloud - negative.png" alt="Negative reviews word cloud, French/English">
+            <div class="wordcloud-caption">Negative reviews (French/English)</div>
+        </div>
+        <div>
+            <img src="word clouds\arabic word cloud - positive.png" alt="Positive reviews word cloud, Arabic script">
+            <div class="wordcloud-caption">Positive reviews (Arabic script)</div>
+        </div>
+        <div>
+            <img src="word clouds\arabic word cloud - negative.png" alt="Negative reviews word cloud, Arabic script">
+            <div class="wordcloud-caption">Negative reviews (Arabic script)</div>
+        </div>
+    </div>
+
+    <p class="legend-note" id="legendNote">723 positive vs. 413 negative reviews in the labeled dataset.</p>
+</div>
+
+<script>
+// ============================================================
+// DATA -- values read directly from the notebook's chart outputs
+// ============================================================
+const sentimentData = { labels: ["positive", "negative"], values: [723, 413], colors: ["#6366f1", "#e8543f"] };
+
+const ratingsData = {
+    labels: ["1", "2", "3", "4", "5"],
+    values: [118, 283, 139, 93, 503],
+    colors: ["#1baf7a", "#e8543f", "#a259e6", "#f5a623", "#6366f1"]
+};
+
+// Approximate split read off the stacked chart (rating 3 mixes both sentiments; totals match the ratings distribution above)
+const perRatingData = {
+    labels: ["1", "2", "3", "4", "5"],
+    positive: [0, 0, 125, 93, 503],
+    negative: [118, 283, 14, 0, 0]
+};
+
+const aspectsData = {
+    labels: ["Food Quality", "Delivery Speed", "App Usability", "Pricing", "Packaging", "Order Accuracy", "Customer Service", "Burger Quality", "Food Temperature"],
+    values: [339, 312, 181, 87, 78, 72, 60, 6, 1],
+    colors: ["#6366f1", "#e8543f", "#1baf7a", "#a259e6", "#f5a623", "#29b6d8", "#ec4899", "#8bc34a", "#d1a3f2"]
+};
+
+const languageData = { labels: ["French", "English", "Arabic"], values: [34.5, 33.2, 32.3], colors: ["#6366f1", "#e8543f", "#1baf7a"] };
+
+// ============================================================
+// CHART RENDERING
+// ============================================================
+const ctx = document.getElementById('mainChart');
+let chart = null;
+
+function fmtY(v) { return v.toLocaleString(); }
+
+function renderSentiment() {
+    chart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels: sentimentData.labels, datasets: [{ label: 'count', data: sentimentData.values, backgroundColor: sentimentData.colors, borderRadius: 4 }] },
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => fmtY(c.raw) + ' reviews' } } },
+            scales: { y: { ticks: { callback: fmtY }, grid: { color: 'rgba(120,120,120,0.15)' } }, x: { grid: { display: false } } }
+        }
+    });
+}
+
+function renderRatings() {
+    chart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels: ratingsData.labels, datasets: [{ label: 'count', data: ratingsData.values, backgroundColor: ratingsData.colors, borderRadius: 4 }] },
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => fmtY(c.raw) + ' reviews' } } },
+            scales: { y: { ticks: { callback: fmtY }, grid: { color: 'rgba(120,120,120,0.15)' } }, x: { grid: { display: false }, title: { display: true, text: 'Rating' } } }
+        }
+    });
+}
+
+function renderPerRating() {
+    chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: perRatingData.labels,
+            datasets: [
+                { label: 'Positive', data: perRatingData.positive, backgroundColor: '#6366f1', borderRadius: 4 },
+                { label: 'Negative', data: perRatingData.negative, backgroundColor: '#e8543f', borderRadius: 4 }
+            ]
+        },
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: { legend: { display: true, position: 'bottom' }, tooltip: { callbacks: { label: (c) => c.dataset.label + ': ' + fmtY(c.raw) } } },
+            scales: { y: { ticks: { callback: fmtY }, grid: { color: 'rgba(120,120,120,0.15)' } }, x: { grid: { display: false }, title: { display: true, text: 'Rating' } } }
+        }
+    });
+}
+
+function renderAspects() {
+    chart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels: aspectsData.labels, datasets: [{ label: 'count', data: aspectsData.values, backgroundColor: aspectsData.colors, borderRadius: 4 }] },
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => fmtY(c.raw) + ' reviews' } } },
+            scales: {
+                y: { ticks: { callback: fmtY }, grid: { color: 'rgba(120,120,120,0.15)' } },
+                x: { grid: { display: false }, ticks: { autoSkip: false, maxRotation: 45, minRotation: 30 } }
+            }
+        }
+    });
+}
+
+function renderLanguage() {
+    chart = new Chart(ctx, {
+        type: 'doughnut',
+        data: { labels: languageData.labels, datasets: [{ data: languageData.values, backgroundColor: languageData.colors }] },
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: {
+                legend: { display: true, position: 'bottom', labels: { boxWidth: 10, font: { size: 12 } } },
+                tooltip: { callbacks: { label: (c) => c.label + ': ' + c.formattedValue + '%' } }
+            }
+        }
+    });
+}
+
+// ============================================================
+// VIEW SWITCHING
+// ============================================================
+const views = {
+    sentiment: { title: "Sentiment Distribution", render: renderSentiment, note: "723 positive vs. 413 negative reviews in the labeled dataset." },
+    ratings: { title: "Ratings Distribution", render: renderRatings, note: "Ratings skew bimodal: mostly 5-star and 2-star reviews, few in between." },
+    perRating: { title: "Sentiment Distribution per Rating", render: renderPerRating, note: "A handful of 3-star reviews are labeled negative despite the mid-range score -- flagged during the rating/sentiment consistency check." },
+    aspects: { title: "Number of Reviews per Aspect (labeled)", render: renderAspects, note: "Food Quality and Delivery Speed dominate; Burger Quality and Food Temperature are near-empty long-tail categories." },
+    language: { title: "Review Language Distribution", render: renderLanguage, note: "Reviews are nearly evenly split across French, English, and Arabic -- motivating the multilingual model routing." },
+    wordclouds: { title: "Word Clouds -- Positive vs Negative", render: null, note: "Recurring words by sentiment, split by script (Latin vs. Arabic) since each needed different rendering handling." }
+};
+
+const chartContainer = document.getElementById('chart-container');
+const wordcloudContainer = document.getElementById('wordcloud-container');
+const graphTitle = document.getElementById('graphTitle');
+const legendNote = document.getElementById('legendNote');
+const buttons = document.querySelectorAll('.toggle-btn');
+
+function setView(key) {
+    const view = views[key];
+    graphTitle.innerText = view.title;
+    legendNote.innerText = view.note;
+
+    buttons.forEach(b => b.classList.toggle('active', b.dataset.view === key));
+
+    if (key === 'wordclouds') {
+        chartContainer.style.display = 'none';
+        wordcloudContainer.style.display = 'grid';
+        if (chart) { chart.destroy(); chart = null; }
+    } else {
+        wordcloudContainer.style.display = 'none';
+        chartContainer.style.display = 'block';
+        if (chart) chart.destroy();
+        view.render();
+    }
+}
+
+buttons.forEach(btn => {
+    btn.addEventListener('click', () => setView(btn.dataset.view));
+});
+
+// Initial render
+renderSentiment();
+</script>
+
+</body>
+</html>
