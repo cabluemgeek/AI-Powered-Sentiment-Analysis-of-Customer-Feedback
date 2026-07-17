@@ -93,28 +93,30 @@ def detect_language_label(raw_text):
 # ============================================================
 # MODEL LOADING (cached -- runs once per session)
 # ============================================================
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+
 @st.cache_resource(show_spinner="Loading TF-IDF model...")
 def load_tfidf_model():
-    vectorizer = joblib.load("tfidf_vectorizer.pkl")
-    clf = joblib.load("tfidf_logreg.pkl")
+    vectorizer = joblib.load(os.path.join(APP_DIR, "tfidf_vectorizer.pkl"))
+    clf = joblib.load(os.path.join(APP_DIR, "tfidf_logreg.pkl"))
     return vectorizer, clf
-
-
+ 
+ 
 @st.cache_resource(show_spinner="Loading DziriBERT (Arabic dialect model)...")
 def load_dziribert_model():
     tokenizer = AutoTokenizer.from_pretrained(ARABIC_MODEL_REPO)
     model = AutoModelForSequenceClassification.from_pretrained(ARABIC_MODEL_REPO)
     model.eval()
     return tokenizer, model
-
-
+ 
+ 
 def predict_tfidf(text, vectorizer, clf):
     X = vectorizer.transform([text])
     proba = clf.predict_proba(X)[0]
     pred_idx = int(np.argmax(proba))
     return LABELS[pred_idx], float(proba[pred_idx])
-
-
+ 
+ 
 def predict_dziribert(text, tokenizer, model):
     inputs = tokenizer(text, truncation=True, padding=True, max_length=128, return_tensors="pt")
     with torch.no_grad():
@@ -122,13 +124,13 @@ def predict_dziribert(text, tokenizer, model):
     proba = torch.softmax(logits, dim=1)[0].numpy()
     pred_idx = int(np.argmax(proba))
     return LABELS[pred_idx], float(proba[pred_idx])
-
-
+ 
+ 
 def classify_review(raw_text):
     cleaned = clean_text(raw_text)
     language = detect_language_label(raw_text)
     aspects_found = extract_aspects(cleaned)
-
+ 
     if ARABIC_PATTERN.search(raw_text):
         tokenizer, model = load_dziribert_model()
         sentiment, confidence = predict_dziribert(cleaned, tokenizer, model)
@@ -137,7 +139,7 @@ def classify_review(raw_text):
         vectorizer, clf = load_tfidf_model()
         sentiment, confidence = predict_tfidf(cleaned, vectorizer, clf)
         model_used = "TF-IDF + Logistic Regression"
-
+ 
     return {
         "language": language,
         "sentiment": sentiment,
@@ -151,50 +153,50 @@ def classify_review(raw_text):
 # UI
 # ============================================================
 st.set_page_config(page_title="Yassir Review Classifier", page_icon="🛵", layout="centered")
-
+ 
 st.title("🛵 Yassir Customer Feedback Classifier")
 st.caption("Write a review in French, English, or Algerian Arabic/darija -- get instant sentiment + aspect detection.")
-
+ 
 EXAMPLES = {
     "French": "La livraison était très en retard et la nourriture était froide.",
     "English": "The app crashed twice but the food quality was excellent!",
     "Arabic / Darija": "الأكل كان طيبًا بزاف ولكن السعر كان مرتفعًا",
 }
-
+ 
 with st.expander("Try an example"):
     cols = st.columns(3)
     for col, (lang, example) in zip(cols, EXAMPLES.items()):
         if col.button(lang, use_container_width=True):
             st.session_state["review_text"] = example
-
+ 
 review_text = st.text_area(
     "Your review",
     value=st.session_state.get("review_text", ""),
     height=120,
     placeholder="Type or paste a customer review here...",
 )
-
+ 
 if st.button("Classify", type="primary", use_container_width=True):
     if not review_text.strip():
         st.warning("Please enter a review first.")
     else:
         with st.spinner("Analyzing..."):
             result = classify_review(review_text)
-
+ 
         st.divider()
-
+ 
         col1, col2, col3 = st.columns(3)
         col1.metric("Detected language", result["language"])
-
+ 
         sentiment_display = "🟢 Positive" if result["sentiment"] == "positive" else "🔴 Negative"
         col2.metric("Sentiment", sentiment_display)
         col3.metric("Confidence", f"{result['confidence']*100:.1f}%")
-
+ 
         st.subheader("Detected aspect(s)")
         st.write(" ".join(f"`{a}`" for a in result["aspects"]))
-
+ 
         st.caption(f"Model used: {result['model_used']}")
-
+ 
 st.divider()
 st.caption(
     "Sentiment models: TF-IDF + Logistic Regression (French/English) and DziriBERT (Algerian dialect), "
