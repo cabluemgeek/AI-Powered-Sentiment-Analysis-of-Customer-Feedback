@@ -11,6 +11,7 @@ Architecture:
   - Arabic-script / darija text -> DziriBERT, fine-tuned on Algerian dialect (loaded from HF Hub)
 """
 
+import os
 import re
 import joblib
 import numpy as np
